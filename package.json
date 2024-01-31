@@ -1,0 +1,15 @@
+{
+  "name": "jmq-tool",
+  "version": "1.0.0",
+  "description": "筋膜科技",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jmq-tool",
+    "jmq"
+  ],
+  "author": "Dexter",
+  "license": "ISC"
+}
