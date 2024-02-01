@@ -1,0 +1,20 @@
+{
+  "name": "jmq-tool",
+  "version": "1.1.1",
+  "description": "筋膜科技",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dexter-zcy/jmq-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dexter-zcy/jmq-tool/issues"
+  },
+  "homepage": "https://github.com/Dexter-zcy/jmq-tool#readme"
+}
